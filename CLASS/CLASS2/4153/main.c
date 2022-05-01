@@ -12,14 +12,14 @@ int main() {
 		}
 	}
 
-	int sqew[i - 1], sqeh[i - 1], sqed[i - 1];
+	int sqew[i], sqeh[i], sqed[i];
 
-	for (int k = 0; i < i - 1; k++) {
+	for (int k = 0; k < i; k++) {
 		sqew[k] = w[k] * w[k];
 		sqeh[k] = h[k] * h[k];
 		sqed[k] = d[k] * d[k];
 	}
-	for (int j = 0; j < i - 1; j++) {
+	for (int j = 0; j < i; j++) {
 		if (sqew[j] == sqeh[j] + sqed[j]) {
 			printf("right\n");
 		} else if (sqeh[j] == sqew[j] + sqed[j]) {
