@@ -13,16 +13,6 @@ int main() {
 	for (int i = 0; i < n; i++) {
 		scanf("%d", &cardnum[i]);
 	}
-	for (int j = 0; j < n; j++) {
-		for (int i = 1; i < n; i++) {
-			if (cardnum[i] < cardnum[i - 1]) {
-				max = cardnum[i];
-				cardnum[i] = cardnum[i - 1];
-				cardnum[i - 1] = max;
-			}
-		}
-	}
-	max = 0;
 	for (int i = 0; i < n - 2; i++) {
 		for (int j = 1; j < n - 1; j++) {
 			if (j == i) {
