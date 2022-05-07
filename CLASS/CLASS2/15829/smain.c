@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int squ(int i) {
-	unsigned int r = 1;
+	int r = 1;
 	if (i == 0) {
 		return 1;
 	} else {
@@ -16,7 +16,7 @@ int squ(int i) {
 int main() {
 	int l;
 	int alp[26] = { 0 };
-	unsigned int sig = 0;
+	int sig = 0;
 	int m = 1234567891;
 
 	scanf("%d", &l);
@@ -28,9 +28,10 @@ int main() {
 		alp[i] = i + 1;
 	}
 	for (int i = 0; i < l; i++) {
-		sig += ((unsigned int)alp[str[i] - 97] * squ(i)) % (unsigned int)m;
+		sig += alp[str[i] - 97] * squ(i);
 	}
-	printf("%u", sig);
+	sig %= m;
+	printf("%d", sig);
 	free(str);
 	return 0;
 }
