@@ -1,16 +1,44 @@
 #include <stdio.h>
 #include <string.h>
-#include <stdlib.h>
 
-int parlin() {
-//바로 호출 후 값 저장
-}
 int main() {
-	char num[5];
-	char rnum[5];
-	int* sol = (int*)malloc(sizeof(int) * 1);
+	char num[6];
+	int len = 0;
+	int cnt[100] = { 0 };
+	int i;
 
-	for (int i = 0; ; i++) {
+	for (i = 0; ; i++) {
 		scanf("%s", num);
-		
-
+		if (num[0] == '0') {
+			break;
+		}
+		len = strlen(num);
+		if (len == 1) {
+			cnt[i] = 1;
+		} else if (len == 2) {
+			if (num[0] == num[1]) {
+				cnt[i] = 1;
+			}
+		} else if (len == 3) {
+			if (num[0] == num[2]) {
+				cnt[i] = 1;
+			}
+		} else if (len == 4) {
+			if ((num[0] == num[3]) && (num[1] == num[2])) {
+				cnt[i] = 1;
+			}
+		} else {
+			if ((num[0] == num[4]) && (num[1] == num[3])) {
+				cnt[i] = 1;
+			}
+		}
+	}
+	for (int j = 0; j < i; j++) {
+		if (cnt[j] == 1) {
+			printf("yes\n");
+		} else {
+			printf("no\n");
+		}
+	}
+	return 0;
+}
