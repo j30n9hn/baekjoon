@@ -3,7 +3,7 @@
 //n[a][b] == n[a - 1][b] + n[a][b - 1]
 
 int howmanypp (int floor, int room) {
-
+	int floor = 
 	return 0;
 }
 
