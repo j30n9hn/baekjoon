@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 #include <string>
 using namespace std;
 
@@ -12,6 +13,8 @@ void setup() {
 	cin.tie(NULL);
 	cout.tie(NULL);
 }
+
+long long sum(vector<int> &a);
 
 int main() {
 	setup();
