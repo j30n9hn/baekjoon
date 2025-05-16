@@ -5,4 +5,4 @@ Summary
 ## C
 ### Sort
 #### qsort
-[1181](./CLASS2/1181)
+[1181](./CLASS/CLASS2/1181)
