@@ -4,6 +4,9 @@ Summary
 
 # Language
 ## C
+### Math
+#### Basic Arithmetic
+[30802](./CLASS/CLASS2/30802/main.c) (Bronze 3, 2025.05.19)
 ### Sort
 #### qsort
 [1181](./CLASS/CLASS2/1181/main.c) (Silver 5, 2025.05.17)
