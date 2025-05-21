@@ -12,3 +12,5 @@ Summary
 [10989](./CLASS/CLASS2/10989/main.c) (Bronze 1, 2025.05.21)
 #### qsort
 [1181](./CLASS/CLASS2/1181/main.c) (Silver 5, 2025.05.17)
+### String
+[31403](./CLASS/CLASS1/31403/main.c) (Bronze 4, 2025.05.21)
