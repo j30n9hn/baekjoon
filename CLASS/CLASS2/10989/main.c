@@ -4,7 +4,6 @@
 int main() {
     int num = 0;
     int cnt;
-    int flag = 0;
     int count[10001] = { 0, };
 
 
