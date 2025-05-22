@@ -11,8 +11,9 @@ Summary
 ### Counting Sort
 [10989](./CLASS/CLASS2/10989/main.c) (Bronze 1, 2025.05.21)
 #### qsort
-[1181](./CLASS/CLASS2/1181/main.c) (Silver 5, 2025.05.17)
-[2751](./CLASS/CLASS2/2751/main.c) (Silver 5, 2025.05.22)
-[10814](./CLASS/CLASS2/10814/main.c) (Silver 5, 2025.05.22)
+[1181](./CLASS/CLASS2/1181/main.c) (Silver 5, 2025.05.17)<br>
+[2751](./CLASS/CLASS2/2751/main.c) (Silver 5, 2025.05.22)<br>
+[10814](./CLASS/CLASS2/10814/main.c) (Silver 5, 2025.05.22)<br>
+[11650](./CLASS/CLASS2/11650/main.c) (Silver 5, 2025.05.22)<br>
 ### String
 [31403](./CLASS/CLASS1/31403/main.c) (Bronze 4, 2025.05.21)
