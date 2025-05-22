@@ -13,5 +13,6 @@ Summary
 #### qsort
 [1181](./CLASS/CLASS2/1181/main.c) (Silver 5, 2025.05.17)
 [2751](./CLASS/CLASS2/2751/main.c) (Silver 5, 2025.05.22)
+[10814](./CLASS/CLASS2/10814/main.c) (Silver 5, 2025.05.22)
 ### String
 [31403](./CLASS/CLASS1/31403/main.c) (Bronze 4, 2025.05.21)
