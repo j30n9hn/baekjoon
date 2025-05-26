@@ -4,13 +4,16 @@ Summary
 
 # Language
 ## C
-### Brute Force
-[1018](./CLASS/CLASS2/1018/main.c) (Silver 4, 2025.05.24)<br>
 ### Math
-#### Basic Arithmetic
+#### Basic arithmetic
 [30802](./CLASS/CLASS2/30802/main.c) (Bronze 3, 2025.05.19)
+### Search algorithm
+#### Binary search
+[1920](./CLASS/CLASS2/1920/main.c) (Silver 4, 2025.05.26)<br>
+#### Brute force search
+[1018](./CLASS/CLASS2/1018/main.c) (Silver 4, 2025.05.24)<br>
 ### Sort
-### Counting Sort
+#### Counting sort
 [10989](./CLASS/CLASS2/10989/main.c) (Bronze 1, 2025.05.21)
 #### qsort
 [1181](./CLASS/CLASS2/1181/main.c) (Silver 5, 2025.05.17)<br>
