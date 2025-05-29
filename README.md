@@ -7,18 +7,22 @@ Summary
 ### Math
 #### Basic arithmetic
 [30802](./CLASS/CLASS2/30802/main.c) (Bronze 3, 2025.05.19)
-### Search algorithm
-#### Binary search
+### Data structure
+#### Circular queue
+[2164](./CLASS/CLASS2/2164/main.c) (Silver 4, 2025.05.29)<br>
+### Algorithm
+#### Search algorithm
+##### Binary search
 [1920](./CLASS/CLASS2/1920/main.c) (Silver 4, 2025.05.26)<br>
-#### Brute force search
+##### Brute force search
 [1018](./CLASS/CLASS2/1018/main.c) (Silver 4, 2025.05.24)<br>
-### Sort
-#### Counting sort
+#### Sort algorithm
+##### Counting sort
 [10989](./CLASS/CLASS2/10989/main.c) (Bronze 1, 2025.05.21)
-#### qsort
+##### qsort
 [1181](./CLASS/CLASS2/1181/main.c) (Silver 5, 2025.05.17)<br>
 [2751](./CLASS/CLASS2/2751/main.c) (Silver 5, 2025.05.22)<br>
 [10814](./CLASS/CLASS2/10814/main.c) (Silver 5, 2025.05.22)<br>
 [11650](./CLASS/CLASS2/11650/main.c) (Silver 5, 2025.05.22)<br>
-### String
+#### String
 [31403](./CLASS/CLASS1/31403/main.c) (Bronze 4, 2025.05.21)
