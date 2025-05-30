@@ -16,7 +16,7 @@ Summary
 ### Data structure
 #### Circular queue
 [2164](./CLASS/CLASS2/2164/main.c) (Silver 4, 2025.05.29)<br>
-[2164](./CLASS/CLASS2/2164/main.c) (Silver 4, 2025.05.30)<br>
+[11866](./CLASS/CLASS2/11866/main.c) (Silver 4, 2025.05.30)<br>
 ### Algorithm
 #### Search algorithm
 ##### Binary search
