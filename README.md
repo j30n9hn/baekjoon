@@ -1,7 +1,7 @@
 > [!NOTE]
 > Recently solved problem<br>
-> Number: 11866<br>
-> Description: Josephus problem
+> Number: 10845<br>
+> Description: Circular queue
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=j30n9hn)](https://solved.ac/j30n9hn)
 
@@ -16,6 +16,7 @@ Summary
 ### Data structure
 #### Circular queue
 [2164](./CLASS/CLASS2/2164/main.c) (Silver 4, 2025.05.29)<br>
+[10845](./CLASS/CLASS2/10845/main.c) (Silver 4, 2025.05.31)<br>
 [11866](./CLASS/CLASS2/11866/main.c) (Silver 4, 2025.05.30)<br>
 ### Algorithm
 #### Search algorithm
