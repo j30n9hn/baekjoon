@@ -1,8 +1,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=j30n9hn)](https://solved.ac/j30n9hn)
 
 > [!NOTE]
-> Recently solved problem
-> Number: 11866
+> Recently solved problem<br>
+> Number: 11866<br>
 > Description: Josephus problem
 
 # Introduction
