@@ -1,3 +1,7 @@
+/*
+* Description: Josephus problem
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
