@@ -1,7 +1,7 @@
 > [!NOTE]
 > Recently solved problem<br>
-> Number: 10845<br>
-> Description: Circular queue
+> Number: 10816<br>
+> Description: Binary search
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=j30n9hn)](https://solved.ac/j30n9hn)
 
@@ -22,6 +22,7 @@ Summary
 #### Search algorithm
 ##### Binary search
 [1920](./CLASS/CLASS2/1920/main.c) (Silver 4, 2025.05.26)<br>
+[10816](./CLASS/CLASS2/10816/main.c) (Silver 4, 2025.06.01)<br>
 ##### Brute force search
 [1018](./CLASS/CLASS2/1018/main.c) (Silver 4, 2025.05.24)<br>
 #### Sort algorithm
