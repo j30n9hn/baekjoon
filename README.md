@@ -1,7 +1,7 @@
 > [!NOTE]
 > Recently solved problem<br>
-> Number: 10816<br>
-> Description: Binary search
+> Number: 10828<br>
+> Description: Fixed Sized Stack
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=j30n9hn)](https://solved.ac/j30n9hn)
 
@@ -18,6 +18,8 @@ Summary
 [2164](./CLASS/CLASS2/2164/main.c) (Silver 4, 2025.05.29)<br>
 [10845](./CLASS/CLASS2/10845/main.c) (Silver 4, 2025.05.31)<br>
 [11866](./CLASS/CLASS2/11866/main.c) (Silver 4, 2025.05.30)<br>
+#### Fixed sized stack
+[10828](./CLASS/CLASS2/10828/main.c) (Silver 4, 2025.06.02)<br>
 ### Algorithm
 #### Search algorithm
 ##### Binary search
