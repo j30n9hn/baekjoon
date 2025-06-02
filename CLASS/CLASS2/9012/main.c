@@ -20,6 +20,7 @@ int isEmpty(stack* s);
 int main() {
     int cnt;
     int underflowFlag;
+    int len;
     char parenthesis[61];
     stack s;
 
@@ -29,7 +30,8 @@ int main() {
         initStack(51, &s);
         underflowFlag = 0;
         scanf("%s", parenthesis);
-        for (int j = 0; j < strlen(parenthesis); j++) {
+        len = strlen(parenthesis);
+        for (int j = 0; j < len; j++) {
             if (parenthesis[j] == '(') {
                 push(1, &s);
             } else if (parenthesis[j] == ')') {
@@ -45,15 +47,15 @@ int main() {
         } else {
             printf("NO\n");
         }
+        freeStack(&s);
     }
 
-    freeStack(&s);
     return 0;
 }
 
 void initStack(int capacity, stack* s) {
     s->capacity = capacity;
-    s->stackArray = (int*)calloc(sizeof(int) * capacity, sizeof(int) * capacity);
+    s->stackArray = (int*)calloc(capacity, sizeof(int));
     s->top = -1;
 }
 
