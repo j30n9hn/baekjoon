@@ -13,6 +13,8 @@ Summary
 ### Math
 #### Basic arithmetic
 [30802](./CLASS/CLASS2/30802/main.c) (Bronze 3, 2025.05.19)
+#### Implementation
+[28702](./CLASS/CLASS2/28702/main.c) (Bronze 1, 2025.06.18)
 ### Data structure
 #### Circular queue
 [2164](./CLASS/CLASS2/2164/main.c) (Silver 4, 2025.05.29)<br>
