@@ -1,5 +1,5 @@
 /* 
- * Description: Math Implementation
+ * Description: Math Implementation(ISBN)
  */
 #include<stdio.h>
 
