@@ -1,6 +1,6 @@
 > [!NOTE]
 > Recently solved problem<br>
-> Number: 28702<br>
+> Number: 14626<br>
 > Description: Math Implementation
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=j30n9hn)](https://solved.ac/j30n9hn)
@@ -14,6 +14,7 @@ Summary
 #### Basic arithmetic
 [30802](./CLASS/CLASS2/30802/main.c) (Bronze 3, 2025.05.19)
 #### Implementation
+[14626](./CLASS/CLASS2/14626/main.c) (Bronze 1, 2025.06.19)
 [28702](./CLASS/CLASS2/28702/main.c) (Bronze 1, 2025.06.18)
 ### Data structure
 #### Circular queue
