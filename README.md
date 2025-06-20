@@ -1,7 +1,7 @@
 > [!NOTE]
 > Recently solved problem<br>
-> Number: 1436<br>
-> Description: Brute force
+> Number: 1676<br>
+> Description: Factorial
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=j30n9hn)](https://solved.ac/j30n9hn)
 
@@ -13,6 +13,8 @@ Summary
 ### Math
 #### Basic arithmetic
 [30802](./CLASS/CLASS2/30802/main.c) (Bronze 3, 2025.05.19)<br>
+#### Factorial
+[1676](./CLASS/CLASS2/1676/main.c) (Silver 5, 2025.06.20)<br>
 #### Implementation
 [14626](./CLASS/CLASS2/14626/main.c) (Bronze 1, 2025.06.19)<br>
 [28702](./CLASS/CLASS2/28702/main.c) (Bronze 1, 2025.06.18)<br>
