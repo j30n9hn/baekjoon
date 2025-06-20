@@ -1,9 +1,20 @@
-> [!NOTE]
-> Recently solved problem<br>
-> Number: 11651<br>
-> Description: Quick sort
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=j30n9hn)](https://solved.ac/j30n9hn)
+<table>
+<tr>
+  <td>
+    
+  > [!NOTE]  
+  > Recently solved problem  
+  > Number: 11651  
+  > Description: Quick sort
+  
+  </td>
+  <td>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=j30n9hn)](https://solved.ac/j30n9hn)
+  
+  </td>
+</tr>
+</table>
 
 # Introduction
 Summary
