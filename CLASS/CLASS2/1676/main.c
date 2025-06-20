@@ -1,6 +1,10 @@
 /*
  * Description: Math Implementation (Factorial) 
- */
+ * If a number includes both 2 and 5 as factors, it results in a trailing zero.
+ * The number of trailing zeros depends on how many times 5 appears as a factor,
+ * because even numbers (which provide factors of 2) are more common than multiples of 5.
+*/
+
 #include<stdio.h>
 
 int main() {
