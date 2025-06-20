@@ -1,7 +1,7 @@
 > [!NOTE]
 > Recently solved problem<br>
-> Number: 7568<br>
-> Description: Brute force(Rank)
+> Number: 11651<br>
+> Description: Quick sort
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=j30n9hn)](https://solved.ac/j30n9hn)
 
@@ -43,5 +43,6 @@ Summary
 [2751](./CLASS/CLASS2/2751/main.c) (Silver 5, 2025.05.22)<br>
 [10814](./CLASS/CLASS2/10814/main.c) (Silver 5, 2025.05.22)<br>
 [11650](./CLASS/CLASS2/11650/main.c) (Silver 5, 2025.05.22)<br>
+[11651](./CLASS/CLASS2/11651/main.c) (Silver 5, 2025.06.21)<br>
 #### String
 [31403](./CLASS/CLASS1/31403/main.c) (Bronze 4, 2025.05.21)
