@@ -1,7 +1,7 @@
 > [!NOTE]
 > Recently solved problem<br>
-> Number: 1676<br>
-> Description: Factorial
+> Number: 7568<br>
+> Description: Brute force(Rank)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=j30n9hn)](https://solved.ac/j30n9hn)
 
@@ -34,6 +34,7 @@ Summary
 ##### Brute force search
 [1018](./CLASS/CLASS2/1018/main.c) (Silver 4, 2025.05.24)<br>
 [1436](./CLASS/CLASS2/1436/main.c) (Silver 5, 2025.06.20)<br>
+[7568](./CLASS/CLASS2/7568/main.c) (Silver 5, 2025.06.21)<br>
 #### Sort algorithm
 ##### Counting sort
 [10989](./CLASS/CLASS2/10989/main.c) (Bronze 1, 2025.05.21)
