@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 11651  
-  > Description: Quick sort
+  > Number: 4949
+  > Description: Fixed sized stack
   
   </td>
   <td>
@@ -35,6 +35,7 @@ Summary
 [10845](./CLASS/CLASS2/10845/main.c) (Silver 4, 2025.05.31)<br>
 [11866](./CLASS/CLASS2/11866/main.c) (Silver 4, 2025.05.30)<br>
 #### Fixed sized stack
+[4949](./CLASS/CLASS2/4949/main.c) (Silver 4, 2025.06.21)<br>
 [9012](./CLASS/CLASS2/9012/main.c) (Silver 4, 2025.06.02)<br>
 [10828](./CLASS/CLASS2/10828/main.c) (Silver 4, 2025.06.02)<br>
 ### Algorithm
