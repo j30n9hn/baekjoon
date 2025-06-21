@@ -4,7 +4,7 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 4949
+  > Number: 10773
   > Description: Fixed sized stack
   
   </td>
@@ -37,6 +37,7 @@ Summary
 #### Fixed sized stack
 [4949](./CLASS/CLASS2/4949/main.c) (Silver 4, 2025.06.21)<br>
 [9012](./CLASS/CLASS2/9012/main.c) (Silver 4, 2025.06.02)<br>
+[10773](./CLASS/CLASS2/10773/main.c) (Silver 4, 2025.06.21)<br>
 [10828](./CLASS/CLASS2/10828/main.c) (Silver 4, 2025.06.02)<br>
 ### Algorithm
 #### Search algorithm
