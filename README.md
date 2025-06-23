@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 1874
-  > Description: Fixed sized stack
+  > Number: 18110
+  > Description: Math Implementation
   
   </td>
   <td>
@@ -28,6 +28,7 @@ Summary
 [1676](./CLASS/CLASS2/1676/main.c) (Silver 5, 2025.06.20)<br>
 #### Implementation
 [14626](./CLASS/CLASS2/14626/main.c) (Bronze 1, 2025.06.19)<br>
+[18110](./CLASS/CLASS2/18110/main.c) (Silver 4, 2025.06.23)<br>
 [28702](./CLASS/CLASS2/28702/main.c) (Bronze 1, 2025.06.18)<br>
 ### Data structure
 #### Circular queue
