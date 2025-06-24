@@ -4,7 +4,7 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 18110
+  > Number: 1929  
   > Description: Math Implementation
   
   </td>
@@ -27,6 +27,7 @@ Summary
 #### Factorial
 [1676](./CLASS/CLASS2/1676/main.c) (Silver 5, 2025.06.20)<br>
 #### Implementation
+[1929](./CLASS/CLASS2/1929/main.c) (Silver 3, 2025.06.24)<br>
 [14626](./CLASS/CLASS2/14626/main.c) (Bronze 1, 2025.06.19)<br>
 [18110](./CLASS/CLASS2/18110/main.c) (Silver 4, 2025.06.23)<br>
 [28702](./CLASS/CLASS2/28702/main.c) (Bronze 1, 2025.06.18)<br>
