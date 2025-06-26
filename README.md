@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 1929  
-  > Description: Math Implementation
+  > Number: 1966  
+  > Description: Circular queue
   
   </td>
   <td>
@@ -33,6 +33,7 @@ Summary
 [28702](./CLASS/CLASS2/28702/main.c) (Bronze 1, 2025.06.18)<br>
 ### Data structure
 #### Circular queue
+[1966](./CLASS/CLASS2/1966/main.c) (Silver 3, 2025.06.27)<br>
 [2164](./CLASS/CLASS2/2164/main.c) (Silver 4, 2025.05.29)<br>
 [10845](./CLASS/CLASS2/10845/main.c) (Silver 4, 2025.05.31)<br>
 [11866](./CLASS/CLASS2/11866/main.c) (Silver 4, 2025.05.30)<br>
