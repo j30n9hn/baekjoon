@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 1966  
-  > Description: Circular queue
+  > Number: 2108  
+  > Description: Math Implementation (Mode)
   
   </td>
   <td>
@@ -28,6 +28,7 @@ Summary
 [1676](./CLASS/CLASS2/1676/main.c) (Silver 5, 2025.06.20)<br>
 #### Implementation
 [1929](./CLASS/CLASS2/1929/main.c) (Silver 3, 2025.06.24)<br>
+[2108](./CLASS/CLASS2/2108/main.c) (Silver 2, 2025.06.27)<br>
 [14626](./CLASS/CLASS2/14626/main.c) (Bronze 1, 2025.06.19)<br>
 [18110](./CLASS/CLASS2/18110/main.c) (Silver 4, 2025.06.23)<br>
 [28702](./CLASS/CLASS2/28702/main.c) (Bronze 1, 2025.06.18)<br>
