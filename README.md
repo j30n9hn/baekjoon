@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 2108  
-  > Description: Math Implementation (Mode)
+  > Number: 11723  
+  > Description: Set and bitmask
   
   </td>
   <td>
@@ -44,6 +44,8 @@ Summary
 [9012](./CLASS/CLASS2/9012/main.c) (Silver 4, 2025.06.02)<br>
 [10773](./CLASS/CLASS2/10773/main.c) (Silver 4, 2025.06.21)<br>
 [10828](./CLASS/CLASS2/10828/main.c) (Silver 4, 2025.06.02)<br>
+#### Set
+[11723](./CLASS/CLASS3/11723/main.c) (Silver 5, 2025.06.28)<br>
 ### Algorithm
 #### Search algorithm
 ##### Binary search
