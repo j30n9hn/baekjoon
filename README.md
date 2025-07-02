@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 1620  
-  > Description: BinarySearch
+  > Number: 1764  
+  > Description: Binary Search
   
   </td>
   <td>
@@ -50,6 +50,7 @@ Summary
 #### Search algorithm
 ##### Binary search
 [1620](./CLASS/CLASS3/1620/main.c) (Silver 4, 2025.07.02)<br>
+[1764](./CLASS/CLASS3/1764/main.c) (Silver 4, 2025.07.02)<br>
 [1920](./CLASS/CLASS2/1920/main.c) (Silver 4, 2025.05.26)<br>
 [10816](./CLASS/CLASS2/10816/main.c) (Silver 4, 2025.06.01)<br>
 ##### Brute force search
