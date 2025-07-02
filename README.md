@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 11723  
-  > Description: Set and bitmask
+  > Number: 1620  
+  > Description: BinarySearch
   
   </td>
   <td>
@@ -49,6 +49,7 @@ Summary
 ### Algorithm
 #### Search algorithm
 ##### Binary search
+[1620](./CLASS/CLASS3/1620/main.c) (Silver 4, 2025.07.02)<br>
 [1920](./CLASS/CLASS2/1920/main.c) (Silver 4, 2025.05.26)<br>
 [10816](./CLASS/CLASS2/10816/main.c) (Silver 4, 2025.06.01)<br>
 ##### Brute force search
