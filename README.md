@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 11399  
-  > Description: Quick sort
+  > Number: 17219  
+  > Description: Set
   
   </td>
   <td>
@@ -46,6 +46,7 @@ Summary
 [10828](./CLASS/CLASS2/10828/main.c) (Silver 4, 2025.06.02)<br>
 #### Set
 [11723](./CLASS/CLASS3/11723/main.c) (Silver 5, 2025.06.28)<br>
+[17219](./CLASS/CLASS3/17219/main.c) (Silver 4, 2025.07.03)<br>
 ### Algorithm
 #### Search algorithm
 ##### Binary search
