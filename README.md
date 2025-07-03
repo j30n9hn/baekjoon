@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 11047  
-  > Description: Binary Search
+  > Number: 11399  
+  > Description: Quick sort
   
   </td>
   <td>
@@ -65,6 +65,7 @@ Summary
 [1181](./CLASS/CLASS2/1181/main.c) (Silver 5, 2025.05.17)<br>
 [2751](./CLASS/CLASS2/2751/main.c) (Silver 5, 2025.05.22)<br>
 [10814](./CLASS/CLASS2/10814/main.c) (Silver 5, 2025.05.22)<br>
+[11399](./CLASS/CLASS3/11399/main.c) (Silver 4, 2025.07.03)<br>
 [11650](./CLASS/CLASS2/11650/main.c) (Silver 5, 2025.05.22)<br>
 [11651](./CLASS/CLASS2/11651/main.c) (Silver 5, 2025.06.21)<br>
 #### String
