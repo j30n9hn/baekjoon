@@ -4,7 +4,7 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: 1764  
+  > Number: 11047  
   > Description: Binary Search
   
   </td>
@@ -53,6 +53,7 @@ Summary
 [1764](./CLASS/CLASS3/1764/main.c) (Silver 4, 2025.07.02)<br>
 [1920](./CLASS/CLASS2/1920/main.c) (Silver 4, 2025.05.26)<br>
 [10816](./CLASS/CLASS2/10816/main.c) (Silver 4, 2025.06.01)<br>
+[11047](./CLASS/CLASS3/11047/main.c) (Silver 4, 2025.07.03)<br>
 ##### Brute force search
 [1018](./CLASS/CLASS2/1018/main.c) (Silver 4, 2025.05.24)<br>
 [1436](./CLASS/CLASS2/1436/main.c) (Silver 5, 2025.06.20)<br>
