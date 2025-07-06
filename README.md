@@ -48,6 +48,8 @@ Summary
 [11723](./CLASS/CLASS3/11723/main.c) (Silver 5, 2025.06.28)<br>
 [17219](./CLASS/CLASS3/17219/main.c) (Silver 4, 2025.07.03)<br>
 ### Algorithm
+#### Dynamic Programming
+[1003](./CLASS/CLASS3/1003/main.c) (Silver 3, 2025.07.06)<br>
 #### Search algorithm
 ##### Binary search
 [1620](./CLASS/CLASS3/1620/main.c) (Silver 4, 2025.07.02)<br>
@@ -59,8 +61,6 @@ Summary
 [1018](./CLASS/CLASS2/1018/main.c) (Silver 4, 2025.05.24)<br>
 [1436](./CLASS/CLASS2/1436/main.c) (Silver 5, 2025.06.20)<br>
 [7568](./CLASS/CLASS2/7568/main.c) (Silver 5, 2025.06.21)<br>
-#### Dynamic Programming
-[1003](./CLASS/CLASS3/1003/main.c) (Silver 3, 2025.07.06)<br>
 #### Sort algorithm
 ##### Counting sort
 [10989](./CLASS/CLASS2/10989/main.c) (Bronze 1, 2025.05.21)
