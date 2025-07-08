@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: [1003](./CLASS/CLASS3/1003/main.c)  
-  > Description: Dynamic Programming
+  > Number: [1463](./CLASS/CLASS3/1463/main.c)  
+  > Description: Dynamic Programming (Bottom-Up)
   
   </td>
   <td>
@@ -50,6 +50,7 @@ Summary
 ### Algorithm
 #### Dynamic Programming
 [1003](./CLASS/CLASS3/1003/main.c) (Silver 3, 2025.07.06)<br>
+[1463](./CLASS/CLASS3/1463/main.c) (Silver 3, 2025.07.08)<br>
 #### Search algorithm
 ##### Binary search
 [1620](./CLASS/CLASS3/1620/main.c) (Silver 4, 2025.07.02)<br>
