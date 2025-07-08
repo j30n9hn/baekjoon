@@ -1,5 +1,5 @@
 /*
- * Description: Dynamic Programming 
+ * Description: Dynamic Programming (Top-Down)
  */
 #include <stdio.h>
 #include <stdlib.h>
