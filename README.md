@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: [2579](./CLASS/CLASS3/2579/main.c)  
-  > Description: Dynamic Programming (Bottom-Up), Math (Recurrence relation)
+  > Number: [2606](./CLASS/CLASS3/2606/main.c)  
+  > Description: BFS, Circular Queue
   
   </td>
   <td>
@@ -48,10 +48,13 @@ Summary
 [11723](./CLASS/CLASS3/11723/main.c) (Silver 5, 2025.06.28)<br>
 [17219](./CLASS/CLASS3/17219/main.c) (Silver 4, 2025.07.03)<br>
 ### Algorithm
-#### Dynamic Programming
+#### Dynamic programming
 [1003](./CLASS/CLASS3/1003/main.c) (Silver 3, 2025.07.06)<br>
 [1463](./CLASS/CLASS3/1463/main.c) (Silver 3, 2025.07.08)<br>
 [2579](./CLASS/CLASS3/2579/main.c) (Silver 3, 2025.07.09)<br>
+#### Graph algorithm
+##### Breadth first search
+[2606](./CLASS/CLASS3/2606/main.c) (Silver 3, 2025.07.13)<br>
 #### Search algorithm
 ##### Binary search
 [1620](./CLASS/CLASS3/1620/main.c) (Silver 4, 2025.07.02)<br>
