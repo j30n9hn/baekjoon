@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: [9095](./CLASS/CLASS3/9095/main.c)  
-  > Description: Dynamic Programming (Bottom-Up), Math (Recurrence relation)
+  > Number: [9375](./CLASS/CLASS3/9375/main.c)  
+  > Description: Combinatorics, Hash Map
   
   </td>
   <td>
@@ -24,6 +24,8 @@ Summary
 ### Math
 #### Basic arithmetic
 [30802](./CLASS/CLASS2/30802/main.c) (Bronze 3, 2025.05.19)<br>
+#### Combinatorics
+[9375](./CLASS/CLASS3/9375/main.c) (Silver 3, 2025.07.20)<br>
 #### Factorial
 [1676](./CLASS/CLASS2/1676/main.c) (Silver 5, 2025.06.20)<br>
 #### Implementation
