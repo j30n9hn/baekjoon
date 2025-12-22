@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: [9375](./CLASS/CLASS3/9375/main.c)  
-  > Description: Combinatorics, Hash Map
+  > Number: [9461](./CLASS/CLASS3/9461/main.c)  
+  > Description: Dynamic Programming (Top-Down, padovan sequence)
   
   </td>
   <td>
@@ -31,6 +31,7 @@ Summary
 #### Implementation
 [1929](./CLASS/CLASS2/1929/main.c) (Silver 3, 2025.06.24)<br>
 [2108](./CLASS/CLASS2/2108/main.c) (Silver 2, 2025.06.27)<br>
+[9461](./CLASS/CLASS3/9461/main.c) (Silver 3, 2025.12.22)<br>
 [14626](./CLASS/CLASS2/14626/main.c) (Bronze 1, 2025.06.19)<br>
 [18110](./CLASS/CLASS2/18110/main.c) (Silver 4, 2025.06.23)<br>
 [28702](./CLASS/CLASS2/28702/main.c) (Bronze 1, 2025.06.18)<br>
