@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: [9461](./CLASS/CLASS3/9461/main.c)  
-  > Description: Dynamic Programming (Top-Down, padovan sequence)
+  > Number: [11659](./CLASS/CLASS3/11659/main.c)  
+  > Description: Math implementation (prefix sum)
   
   </td>
   <td>
@@ -35,6 +35,8 @@ Summary
 [14626](./CLASS/CLASS2/14626/main.c) (Bronze 1, 2025.06.19)<br>
 [18110](./CLASS/CLASS2/18110/main.c) (Silver 4, 2025.06.23)<br>
 [28702](./CLASS/CLASS2/28702/main.c) (Bronze 1, 2025.06.18)<br>
+#### Prefix sum
+[11659](./CLASS/CLASS3/11659/main.c) (Silver 3, 2025.12.24)<br>
 ### Data structure
 #### Circular queue
 [1966](./CLASS/CLASS2/1966/main.c) (Silver 3, 2025.06.27)<br>
