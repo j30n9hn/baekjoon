@@ -4,7 +4,7 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: [11726](./CLASS/CLASS3/11726/main.c)  
+  > Number: [11727](./CLASS/CLASS3/11727/main.c)  
   > Description: Dynamic programming
   
   </td>
@@ -59,6 +59,7 @@ Summary
 [2579](./CLASS/CLASS3/2579/main.c) (Silver 3, 2025.07.09)<br>
 [9095](./CLASS/CLASS3/9095/main.c) (Silver 3, 2025.07.18)<br>
 [11726](./CLASS/CLASS3/11726/main.c) (Silver 3, 2025.12.25)<br>
+[11727](./CLASS/CLASS3/11727/main.c) (Silver 3, 2025.12.26)<br>
 #### Graph algorithm
 ##### Breadth first search
 [2606](./CLASS/CLASS3/2606/main.c) (Silver 3, 2025.07.13)<br>
