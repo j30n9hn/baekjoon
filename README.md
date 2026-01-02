@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: [11727](./CLASS/CLASS3/11727/main.c)  
-  > Description: Dynamic programming
+  > Number: [17626](./CLASS/CLASS3/17626/main.c)  
+  > Description: Math implementation(Lagrange's Four Square Theorem)
   
   </td>
   <td>
@@ -33,6 +33,7 @@ Summary
 [2108](./CLASS/CLASS2/2108/main.c) (Silver 2, 2025.06.27)<br>
 [9461](./CLASS/CLASS3/9461/main.c) (Silver 3, 2025.12.22)<br>
 [14626](./CLASS/CLASS2/14626/main.c) (Bronze 1, 2025.06.19)<br>
+[17626](./CLASS/CLASS3/17626/main.c) (Silver 3, 2026.01.02)<br>
 [18110](./CLASS/CLASS2/18110/main.c) (Silver 4, 2025.06.23)<br>
 [28702](./CLASS/CLASS2/28702/main.c) (Bronze 1, 2025.06.18)<br>
 #### Prefix sum
