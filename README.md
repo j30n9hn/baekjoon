@@ -61,6 +61,7 @@ Summary
 [9095](./CLASS/CLASS3/9095/main.c) (Silver 3, 2025.07.18)<br>
 [11726](./CLASS/CLASS3/11726/main.c) (Silver 3, 2025.12.25)<br>
 [11727](./CLASS/CLASS3/11727/main.c) (Silver 3, 2025.12.26)<br>
+[17626](./CLASS/CLASS3/17626/main.c) (Silver 3, 2026.01.02)<br>
 #### Graph algorithm
 ##### Breadth first search
 [2606](./CLASS/CLASS3/2606/main.c) (Silver 3, 2025.07.13)<br>
