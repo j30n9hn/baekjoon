@@ -4,8 +4,8 @@
     
   > [!NOTE]  
   > Recently solved problem  
-  > Number: [1012](./CLASS/CLASS3/1012/main.c)  
-  > Description: BFS, Grid
+  > Number: [1260](./CLASS/CLASS3/1260/main.c)  
+  > Description: BFS, DFS
   
   </td>
   <td>
@@ -64,8 +64,11 @@ Summary
 [17626](./CLASS/CLASS3/17626/main.c) (Silver 3, 2026.01.02)<br>
 #### Graph algorithm
 ##### Breadth first search
-[2606](./CLASS/CLASS3/2606/main.c) (Silver 3, 2025.07.13)<br>
 [1012](./CLASS/CLASS3/1012/main.c) (Silver 2, 2026.01.07)<br>
+[1260](./CLASS/CLASS3/1260/main.c) (Silver 2, 2026.01.10)<br>
+[2606](./CLASS/CLASS3/2606/main.c) (Silver 3, 2025.07.13)<br>
+##### Depth first search
+[1260](./CLASS/CLASS3/1260/main.c) (Silver 2, 2026.01.10)<br>
 #### Search algorithm
 ##### Binary search
 [1620](./CLASS/CLASS3/1620/main.c) (Silver 4, 2025.07.02)<br>
